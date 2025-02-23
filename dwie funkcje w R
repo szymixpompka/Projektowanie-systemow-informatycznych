@@ -1,0 +1,9 @@
+kostka = function()
+{ 
+x = sample(1:6,1)
+print(x)
+}
+
+pole_kola = function(r){
+print(r*r*pi)
+}
